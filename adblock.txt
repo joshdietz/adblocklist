@@ -1,0 +1,17 @@
+# Title: Custom Ad Block list
+# Expires: 1 day
+# Homepage: https://github.com/joshdietz/adblocklist
+
+
+# Ad Servers
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 media.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 ads.youtube.com
